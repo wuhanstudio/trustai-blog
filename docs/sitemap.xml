@@ -3,48 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://example.com/tags/active-projects/</loc>
     <lastmod>2020-10-22T15:08:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/first-category/</loc>
+    <loc>https://example.com/categories/</loc>
     <lastmod>2020-10-22T15:08:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/first-tag/</loc>
+    <loc>https://example.com/projects/orca/</loc>
     <lastmod>2020-10-22T15:08:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://example.com/projects/eumr/</loc>
     <lastmod>2020-10-22T15:08:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://example.com/projects/</loc>
     <lastmod>2020-10-22T15:08:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://example.com/categories/projects/</loc>
     <lastmod>2020-10-22T15:08:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/second-category/</loc>
+    <loc>https://example.com/tags/</loc>
     <lastmod>2020-10-22T15:08:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/second-tag/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2020-10-22T15:08:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2020-10-22T15:08:45+00:00</lastmod>
+    <loc>https://example.com/blog/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/blog/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
