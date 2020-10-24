@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>news on TrustAI</title>
-    <link>https://blog.wuhanstudo.cn/categories/news/</link>
+    <link>https://blog.wuhanstudio.cn/categories/news/</link>
     <description>Recent content in news on TrustAI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2020 15:08:45 +0000</lastBuildDate><atom:link href="https://blog.wuhanstudo.cn/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Oct 2020 15:08:45 +0000</lastBuildDate><atom:link href="https://blog.wuhanstudio.cn/categories/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Defense in depth -- the Microsoft way (part 62): Windows shipped with end-of-life components</title>
-      <link>https://blog.wuhanstudo.cn/news/great/</link>
+      <link>https://blog.wuhanstudio.cn/news/great/</link>
       <pubDate>Thu, 22 Oct 2020 15:08:45 +0000</pubDate>
       
-      <guid>https://blog.wuhanstudo.cn/news/great/</guid>
+      <guid>https://blog.wuhanstudio.cn/news/great/</guid>
       <description></description>
     </item>
     

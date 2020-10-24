@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on TrustAI</title>
-    <link>https://blog.wuhanstudo.cn/categories/</link>
+    <link>https://blog.wuhanstudio.cn/categories/</link>
     <description>Recent content in Categories on TrustAI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2020 15:08:45 +0000</lastBuildDate><atom:link href="https://blog.wuhanstudo.cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Oct 2020 15:08:45 +0000</lastBuildDate><atom:link href="https://blog.wuhanstudio.cn/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>news</title>
-      <link>https://blog.wuhanstudo.cn/categories/news/</link>
+      <link>https://blog.wuhanstudio.cn/categories/news/</link>
       <pubDate>Thu, 22 Oct 2020 15:08:45 +0000</pubDate>
       
-      <guid>https://blog.wuhanstudo.cn/categories/news/</guid>
+      <guid>https://blog.wuhanstudio.cn/categories/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>projects</title>
-      <link>https://blog.wuhanstudo.cn/categories/projects/</link>
+      <link>https://blog.wuhanstudio.cn/categories/projects/</link>
       <pubDate>Thu, 22 Oct 2020 15:08:45 +0000</pubDate>
       
-      <guid>https://blog.wuhanstudo.cn/categories/projects/</guid>
+      <guid>https://blog.wuhanstudio.cn/categories/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax</title>
-      <link>https://blog.wuhanstudo.cn/categories/syntax/</link>
+      <link>https://blog.wuhanstudio.cn/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.wuhanstudo.cn/categories/syntax/</guid>
+      <guid>https://blog.wuhanstudio.cn/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://blog.wuhanstudo.cn/categories/themes/</link>
+      <link>https://blog.wuhanstudio.cn/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.wuhanstudo.cn/categories/themes/</guid>
+      <guid>https://blog.wuhanstudio.cn/categories/themes/</guid>
       <description></description>
     </item>
     
