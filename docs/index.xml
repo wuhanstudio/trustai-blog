@@ -8,6 +8,15 @@
     <language>en</language>
     <lastBuildDate>Thu, 22 Oct 2020 15:08:45 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Defense in depth -- the Microsoft way (part 62): Windows shipped with end-of-life components</title>
+      <link>https://example.com/news/great/</link>
+      <pubDate>Thu, 22 Oct 2020 15:08:45 +0000</pubDate>
+      
+      <guid>https://example.com/news/great/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>EPSRC UK Robotics and AI Hub for Offshore Energy Asset Integrity Management</title>
       <link>https://example.com/projects/orca/</link>
       <pubDate>Thu, 22 Oct 2020 15:08:45 +0000</pubDate>

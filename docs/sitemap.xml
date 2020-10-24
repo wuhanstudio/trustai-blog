@@ -13,12 +13,27 @@
   </url>
   
   <url>
+    <loc>https://example.com/news/great/</loc>
+    <lastmod>2020-10-22T15:08:45+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/projects/orca/</loc>
     <lastmod>2020-10-22T15:08:45+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/projects/eumr/</loc>
+    <lastmod>2020-10-22T15:08:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/news/</loc>
+    <lastmod>2020-10-22T15:08:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/news/</loc>
     <lastmod>2020-10-22T15:08:45+00:00</lastmod>
   </url>
   
