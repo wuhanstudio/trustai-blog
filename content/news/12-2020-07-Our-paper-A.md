@@ -1,6 +1,6 @@
 ---
 title:  Our paper A Survey of Safety and Trustworthiness of Deep Neural Networks
-date: 2020-07-00T00:00:00Z
+pubDate: 2020-07-01
 categories: # Optional, will be displayed above the title of the page
 - news
 banner: false

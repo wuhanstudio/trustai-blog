@@ -1,6 +1,6 @@
 ---
 title:  One short paper "Related or Duplicate
-date: 2018-04-00T00:00:00Z
+pubDate: 2018-04-01
 categories: # Optional, will be displayed above the title of the page
 - news
 banner: false

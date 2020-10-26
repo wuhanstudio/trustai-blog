@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>news</title>
+      <link>https://blog.wuhanstudio.cn/categories/news/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.wuhanstudio.cn/categories/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>syntax</title>
       <link>https://blog.wuhanstudio.cn/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
@@ -31,15 +40,6 @@
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://blog.wuhanstudio.cn/categories/themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>news</title>
-      <link>https://blog.wuhanstudio.cn/categories/news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.wuhanstudio.cn/categories/news/</guid>
       <description></description>
     </item>
     
