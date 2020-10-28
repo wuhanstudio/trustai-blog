@@ -9,6 +9,6 @@ menu:
     - name: Blog
       url: /blog
 params:
-  description: Example site for the Hugo's Blogpaper theme
+  description: Exeter Trustworthy AI Lab (ETAL)
 title: TrustAI
 theme: Blogpaper
